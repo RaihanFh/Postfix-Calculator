@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1672380200 source:c:\users\raihan\belajarc++\tubes\stackqueue.cpp
+	"header.h"
+
+1672112988 c:\users\raihan\belajarc++\tubes\header.h
+	<math.h>
+	<string>
+	<iomanip>
+	<iostream>
+
+1672130643 source:c:\users\raihan\belajarc++\tubes\main.cpp
+	"header.h"
+
